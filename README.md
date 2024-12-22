@@ -1,8 +1,28 @@
-# React + Vite
+# Refokus Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a clone of the **Refokus** website, built with **React.js** and **Vite** for fast development and optimized build. The project features animations using **Framer Motion**, smooth scrolling with **Locomotive Scroll**, and modern styling with **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## Features
+- **Smooth Scrolling** with Locomotive Scroll
+- **Animations** using Framer Motion
+- **Responsive Design** powered by Tailwind CSS
+- **React Router** for page navigation
+- **Vite** for fast builds and development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
+You can view the live demo of the project here:  
+[https://adi522.github.io/refokus-clone](https://adi522.github.io/refokus-clone)
+
+## Installation
+
+### Prerequisites
+Ensure you have the following installed:
+- **Node.js** (>= 14.x)
+- **npm** (>= 6.x)
+
+### Clone the Repository
+To clone the project and set it up locally, follow these steps:
+
+```bash
+git clone https://github.com/adi522/refokus-clone.git
+cd refokus-clone
